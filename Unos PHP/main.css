@@ -1,0 +1,54 @@
+body {
+  background: #b3b3b3;
+}
+
+#formular {
+  padding: 20px;
+  margin-left: 40%;
+  margin-right: 40%;
+  background: lightgray;
+  border: 2px solid #333333;
+  border-radius: 15px;
+}
+
+#formular a {
+  color: #333333;
+  font-size: 120%;
+  text-decoration: none;
+  margin: 10px;
+}
+
+#formular a:hover {
+  color: white;
+}
+
+#formular input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+#poruka, #rezultat {
+  background: lightgray;
+  border: 2px solid #333333;
+  border-radius: 15px;
+  padding: 5px;
+  text-align: center;
+}
+
+#poruka a {
+  font-weight: bold;
+  text-decoration: none;
+  color: crimson;
+  background: white;
+  padding: 5px;
+  border: 1px solid crimson;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+#poruka a:hover {
+  background: crimson;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
